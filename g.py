@@ -516,7 +516,7 @@ def about():
 
 def developer():
 
-    webbrowser.open('https://github.com/Sachin123456789')
+    webbrowser.open('https://github.com/Sachin123456789/Encryption-Decryotion-tool/find/master')
 
 
 
